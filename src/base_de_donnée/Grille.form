@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="1350" max="-2" attributes="0"/>
+              <EmptySpace pref="159" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="694" max="-2" attributes="0"/>
+              <EmptySpace pref="3623" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jButton6" min="-2" pref="90" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="382" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" pref="324" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                                      <Component id="jButton1" min="-2" pref="90" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel4" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="jLabel5" alignment="0" min="-2" pref="40" max="-2" attributes="0"/>
+                                  <Component id="jLabel7" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel8" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel9" alignment="0" min="-2" pref="190" max="-2" attributes="0"/>
+                                  <Component id="jLabel11" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel14" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel15" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel13" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                  <Component id="jLabel16" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel17" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel18" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel19" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel20" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel21" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel22" alignment="0" min="-2" pref="150" max="-2" attributes="0"/>
+                                  <Component id="jLabel24" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel26" alignment="0" min="-2" pref="80" max="-2" attributes="0"/>
+                                  <Component id="jLabel23" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel25" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                  <Component id="jLabel27" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel10" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
+                                  <Component id="jLabel28" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel29" alignment="0" min="-2" pref="120" max="-2" attributes="0"/>
+                                  <Component id="jLabel30" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel31" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel32" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                  <Component id="jLabel33" alignment="0" min="-2" pref="90" max="-2" attributes="0"/>
+                                  <Component id="jLabel34" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel35" alignment="0" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <Component id="jLabel36" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel37" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel38" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel39" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                  <Component id="jLabel40" alignment="0" min="-2" pref="40" max="-2" attributes="0"/>
+                                  <Component id="jLabel41" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel42" alignment="0" min="-2" pref="170" max="-2" attributes="0"/>
+                                  <Component id="jLabel43" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                                  <Component id="jLabel44" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
+                                  <Component id="jLabel45" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
+                                  <Component id="jLabel46" alignment="0" min="-2" pref="90" max="-2" attributes="0"/>
+                                  <Component id="jLabel47" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel48" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                  <Component id="jLabel49" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel50" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel51" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel52" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel53" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel54" alignment="0" min="-2" pref="190" max="-2" attributes="0"/>
+                                  <Component id="jLabel55" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel56" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel57" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel58" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel59" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel60" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                  <Component id="jLabel61" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                                  <Component id="jLabel62" alignment="0" min="-2" pref="230" max="-2" attributes="0"/>
+                                  <Component id="jLabel63" alignment="0" min="-2" pref="170" max="-2" attributes="0"/>
+                                  <Component id="jLabel64" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel65" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel66" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel67" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel68" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel69" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel70" alignment="0" min="-2" pref="280" max="-2" attributes="0"/>
+                                  <Component id="jLabel71" alignment="0" min="-2" pref="360" max="-2" attributes="0"/>
+                                  <Component id="jLabel72" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                                  <Component id="jLabel73" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel74" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel75" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel76" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel77" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel78" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel79" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel80" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel81" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel82" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel83" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel84" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel85" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel86" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel87" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel88" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel89" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel90" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel91" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel92" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel93" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel94" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel95" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel96" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel97" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                  <Component id="jLabel6" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <EmptySpace min="-2" pref="92" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="txt_faisceaux_A320_41687_41688" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A320_41689_41690_41989" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A320_NEO" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A320_NEO_avec_Isoclip" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A320_MLG_autre_que_AXE" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A320_MLG_Axe" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A330_41489" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A330_A340" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A340_500_600" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A330_MLG_251t" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A350MLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A380MLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A380_50v" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_G7000_8000" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_G7000_8000" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A320" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A320_NEO" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A320_MLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A330_A340" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_Global_Express" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaine_A350_NLG" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A350MLG_avec_Surtressage" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_Global_Express" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_BTMU" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boites_électriques_43235" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A350MLG" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A340_500_600" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_gaines_ATR72" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ERJ_MLG_175_195" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ERJ_DownLock" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ERJ_NLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_E2_NLG_Lighting" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A350_LSDS_LVDT" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A380_avec_Drainage_DREMEL" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A380_avec_Band_it" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_montage_gaine_B737" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boeing_787" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_SEHLA" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Falcon_F7X" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_NH90_autre_que_43683_43684_44060_44061" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_NH90_43683_43684_44060_1_44061" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A380" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_preparation_montage_gaine_B737" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_SICMA" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_TPIS_autres_que_38985_43015" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Cablage" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Montage" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Silvercrest" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_E2_Reservoir" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_G7000_8000_OBIGGS" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_MRJ_Reservoir" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_E2_OBIGGS" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_gaines_BOEING_autres_que_43133" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_gaines_BOEING_43133" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A30_MLG_251t" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_MC21_NGS" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ECE" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Falcon" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boeing_787_ND" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_NH90_autre_que_43490_43494_44026_44027" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Oxygéne" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ABS_2216_EMI" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_A321_XLR" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_P20" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_G250" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_SJ_100_R" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_E2_MLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_E2_NLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_ATR72" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Kitting_A320_MLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_AB139" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_ANSALDO" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boites_électriques_43235_1" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boites_électriques_43236_43237" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boites_électriques_Montage_Couvercle" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Boites_électriques_Retouche_peinture" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A321_XLR_avec_Isoclip" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A321_XLR_AXLE" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_A321_XLR_autre_que_AXLE_Isoclips" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_A300_600" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Cables_BOEING" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_MC21_Reservoir" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_SLAT_CAN_HOSE_A320" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_SLAT_CAN_HOSE_A330" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_faisceaux_NH90_43490_43494_44026_44027" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_GA_Mats_moteur" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaine_A380SOV" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Gaines_ABS_1896" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_A340_A350_C919" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="1" attributes="0">
+                                                          <Group type="102" attributes="0">
+                                                              <Component id="txt_faisceaux_A350_NLG" min="-2" pref="70" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="111" max="-2" attributes="0"/>
+                                                              <Component id="jButton5" min="-2" pref="110" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" attributes="0">
+                                                              <Component id="txt_Cond" min="-2" pref="70" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+                                                              <Component id="jLabel3" min="-2" pref="161" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Component id="txt_faisceaux_A380_NLG" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="comrech" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="txt_recherche" min="-2" pref="103" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Component id="txt_Matricule" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                                  <Component id="txt_Alias" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                                              <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="104" max="-2" attributes="0"/>
+                                              <Component id="jButton4" min="-2" pref="110" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="109" max="-2" attributes="0"/>
+                                      <Component id="txt_TPIS_38985_43015" min="-2" pref="70" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Component id="jScrollPane3" min="-2" pref="1322" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="84" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jButton6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jScrollPane3" min="-2" pref="126" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_Matricule" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_Alias" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="txt_Cond" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txt_faisceaux_A380_NLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                              <Component id="comrech" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A350_NLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_recherche" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_41687_41688" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_41689_41690_41989" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_NEO" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_NEO_avec_Isoclip" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_MLG_autre_que_AXE" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A320_MLG_Axe" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel15" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A330_41489" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel16" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A330_A340" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel17" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A340_500_600" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel18" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A330_MLG_251t" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel19" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A350MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel20" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A380MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel21" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A380_50v" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel22" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_G7000_8000" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txt_faisceaux_Global_Express" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel23" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel24" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaine_A350_NLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel25" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_G7000_8000" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel26" alignment="0" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A320" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel27" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A320_NEO" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel28" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A320_MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel29" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A330_A340" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel30" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A340_500_600" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel31" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A350MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel32" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A350MLG_avec_Surtressage" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel33" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A380" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel34" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A380_avec_Band_it" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel35" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_A380_avec_Drainage_DREMEL" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel36" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_Global_Express" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel37" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Kitting_A320_MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel38" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_AB139" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel39" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_ANSALDO" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel40" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_BTMU" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel41" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boites_électriques_43235" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel42" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boites_électriques_43235_1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel43" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boites_électriques_43236_43237" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel44" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boites_électriques_Montage_Couvercle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel45" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boites_électriques_Retouche_peinture" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel46" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_gaines_ATR72" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel47" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_ATR72" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel48" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_ERJ_MLG_175_195" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel49" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_ERJ_DownLock" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel50" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_ERJ_NLG" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel51" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_E2_MLG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel52" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_E2_NLG" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel53" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_E2_NLG_Lighting" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel54" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_faisceaux_A350_LSDS_LVDT" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel55" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_SJ_100_R" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel56" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_G250" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel57" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_P20" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel58" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_A300_600" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel59" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Cables_BOEING" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel60" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_gaines_BOEING_autres_que_43133" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel61" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_gaines_BOEING_43133" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel62" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_preparation_montage_gaine_B737" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel63" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_montage_gaine_B737" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel64" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Boeing_787" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel65" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_SEHLA" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel66" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_ECE" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel67" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Falcon" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel68" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Falcon_F7X" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel69" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Gaines_NH90_autre_que_43683_43684_44060_44061" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel70" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_Gaines_NH90_43683_43684_44060_1_44061" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel71" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_NH90_autre_que_43490_43494_44026_44027" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel72" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Oxygéne" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel73" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_NH90_43490_43494_44026_44027" min="-2" pref="26" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel74" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_GA_Mats_moteur" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel75" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_SICMA" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Component id="jLabel76" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="txt_TPIS_38985_43015" min="-2" pref="23" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel77" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_TPIS_autres_que_38985_43015" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel78" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Cablage" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel79" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Montage" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel80" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Silvercrest" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel81" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_E2_Reservoir" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel82" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_MRJ_Reservoir" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel83" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_E2_OBIGGS" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel84" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_G7000_8000_OBIGGS" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel85" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Gaine_A380SOV" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel86" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Gaines_ABS_1896" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel87" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Gaines_A30_MLG_251t" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel88" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_MC21_NGS" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel89" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Boeing_787_ND" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel90" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_ABS_2216_EMI" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel91" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_Gaines_A321_XLR" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel92" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_A321_XLR_avec_Isoclip" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel93" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_A321_XLR_AXLE" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel94" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_faisceaux_A321_XLR_autre_que_AXLE_Isoclips" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel95" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="txt_MC21_Reservoir" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel96" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_SLAT_CAN_HOSE_A320" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel97" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_SLAT_CAN_HOSE_A330" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel6" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="txt_A340_A350_C919" min="-2" pref="24" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="38" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_programmes">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="99" red="99" type="rgb"/>
+                    </Property>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                        <LineBorder roundedCorners="true" thickness="2">
+                          <Color PropertyName="color" blue="ff" green="66" red="cc" type="rgb"/>
+                        </LineBorder>
+                      </Border>
+                    </Property>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="95" rowCount="95">
+                        <Column editable="false" title="Matricule" type="java.lang.Integer"/>
+                        <Column editable="false" title="Alias" type="java.lang.String">
+                          <Data value=""/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                          <Data value="null"/>
+                        </Column>
+                        <Column editable="false" title="Conditionnement produit UAP1(emballage+&#xe9;tiquettage):" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A380 NLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A350 NLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320 NEO" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A320-MLG AXE" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A330 41489" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A330 A340" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A340 500/600" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A350MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A380 MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A380 SOV" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux G7000/8000" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux Global Express" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaine A350 NLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines G7000/8000" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A320" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A320 NEO" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A320-MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A330 A340" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A340 500/600" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A350MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A380" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A380 avec Band-it" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines Global Express" type="java.lang.Integer"/>
+                        <Column editable="false" title="Kitting A320-MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="AB139" type="java.lang.Integer"/>
+                        <Column editable="false" title="ANSALDO" type="java.lang.Integer"/>
+                        <Column editable="false" title="BTMU" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235-1" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236 43237" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques-Montage Couvercle" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques-Retouche peinture" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines ATR72" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux ATR72" type="java.lang.Integer"/>
+                        <Column editable="false" title="ERJ MLG(175 &amp; 195)" type="java.lang.Integer"/>
+                        <Column editable="false" title="ERJ DownLock" type="java.lang.Integer"/>
+                        <Column editable="false" title="ERJ NLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="E2 MLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="E2 NLG" type="java.lang.Integer"/>
+                        <Column editable="false" title="E2 NLG(Lighting)" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT" type="java.lang.Integer"/>
+                        <Column editable="false" title="SJ 100 R" type="java.lang.Integer"/>
+                        <Column editable="false" title="G250" type="java.lang.Integer"/>
+                        <Column editable="false" title="P20" type="java.lang.Integer"/>
+                        <Column editable="false" title="A 300/600" type="java.lang.Integer"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines BOEING 43133" type="java.lang.Integer"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737" type="java.lang.Integer"/>
+                        <Column editable="false" title="Montage gaine B737" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boeing 787" type="java.lang.Integer"/>
+                        <Column editable="false" title="SEHLA" type="java.lang.Integer"/>
+                        <Column editable="false" title="ECE" type="java.lang.Integer"/>
+                        <Column editable="false" title="Falcon" type="java.lang.Integer"/>
+                        <Column editable="false" title="Falcon F7X " type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 &amp; 44061" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 1 44061" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux NH90 autres que 43490/43494 44026 &amp; 44027" type="java.lang.Integer"/>
+                        <Column editable="false" title="Oxyg&#xe9;ne" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux NH90 43490/43494 44026 &amp; 44027" type="java.lang.Integer"/>
+                        <Column editable="false" title="GA Mats moteur" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux SICMA" type="java.lang.Integer"/>
+                        <Column editable="false" title="TPIS 38985 &amp; 43015" type="java.lang.Integer"/>
+                        <Column editable="false" title="TPIS autres que 38985 &amp; 43015" type="java.lang.Integer"/>
+                        <Column editable="false" title="C&#xe2;blage" type="java.lang.Integer"/>
+                        <Column editable="false" title="Montage" type="java.lang.Integer"/>
+                        <Column editable="false" title="Silvercrest" type="java.lang.Integer"/>
+                        <Column editable="false" title="E2 Reservoir" type="java.lang.Integer"/>
+                        <Column editable="false" title="MRJ Reservoir" type="java.lang.Integer"/>
+                        <Column editable="false" title="E2 OBIGGS" type="java.lang.Integer"/>
+                        <Column editable="false" title="G7000-8000 OBIGGS" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaine A380SOV" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines ABS 1896" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A30 MLG 251t" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS" type="java.lang.Integer"/>
+                        <Column editable="false" title="Boeing 787 ND " type="java.lang.Integer"/>
+                        <Column editable="false" title="ABS 2216 EMI" type="java.lang.Integer"/>
+                        <Column editable="false" title="Gaines A321 XLR" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE" type="java.lang.Integer"/>
+                        <Column editable="false" title="Faisceaux A321 XLR(autre que AXLE/Isoclips)" type="java.lang.Integer"/>
+                        <Column editable="false" title="MC21 Reservoir" type="java.lang.Integer"/>
+                        <Column editable="false" title="SLAT CAN HOSE A320" type="java.lang.Integer"/>
+                        <Column editable="false" title="SLAT CAN HOSE A330" type="java.lang.Integer"/>
+                        <Column editable="false" title="A340 &amp; A350 &amp;C919" type="java.lang.Integer"/>
+                      </Table>
+                    </Property>
+                    <Property name="autoResizeMode" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                      <Connection code="0" type="code"/>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="table_programmesMouseClicked"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="36" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Grille UAP C&#xe2;blage"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Ajouter"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Modifier"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Supprimer"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Actualiser"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Matricule"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Matricule">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Alias"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Alias">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Conditionnement produit UAP1(emballage+&#xe9;tiquettage)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Cond">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A380 NLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A380_NLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A350 NLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A350_NLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320 41687 41688"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_41687_41688">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320 41689 41690 41989"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_41689_41690_41989">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320 NEO"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_NEO">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320 NEO avec Isoclip"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_NEO_avec_Isoclip">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320-MLG autre que AXE"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_MLG_autre_que_AXE">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A320-MLG AXE"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A320_MLG_Axe">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A330 41489"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A330_41489">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A330 A340"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A330_A340">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A340 500/600"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A340_500_600">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A330 MLG 251t"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A330_MLG_251t">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A350MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A350MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A380 MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A380MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A380 50v"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A380_50v">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux G7000/8000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_G7000_8000">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux Global Express"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_Global_Express">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaine A350 NLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaine_A350_NLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines G7000/8000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_G7000_8000">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel26">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A320"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A320">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A320 NEO"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A320_NEO">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A320-MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A320_MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel29">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A330 A340"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A330_A340">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel30">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A340 500/600"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A340_500_600">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel31">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A350MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A350MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel32">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A350MLG avec Surtressage"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A350MLG_avec_Surtressage">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel33">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A380"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A380">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel34">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A380 avec Band-it"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A380_avec_Band_it">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel35">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A380 avec Drainage DREMEL"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A380_avec_Drainage_DREMEL">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel36">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines Global Express"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_Global_Express">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel37">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Kitting A320-MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Kitting_A320_MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel38">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="AB139"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_AB139">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel39">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ANSALDO"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ANSALDO">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel40">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="BTMU"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_BTMU">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel41">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boites &#xe9;lectriques 43235"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boites_&#xe9;lectriques_43235">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel42">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boites &#xe9;lectriques 43235-1"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boites_&#xe9;lectriques_43235_1">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel43">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boites &#xe9;lectriques 43236 43237"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boites_&#xe9;lectriques_43236_43237">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel44">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boites &#xe9;lectriques-Montage Couvercle"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boites_&#xe9;lectriques_Montage_Couvercle">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel45">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boites &#xe9;lectriques-Retouche peinture"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boites_&#xe9;lectriques_Retouche_peinture">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel46">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines ATR72"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_gaines_ATR72">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel47">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux ATR72"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_ATR72">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel48">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ERJ MLG(175 &amp; 195)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ERJ_MLG_175_195">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel49">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ERJ DownLock"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ERJ_DownLock">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel50">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ERJ NLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ERJ_NLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel51">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="E2 MLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_E2_MLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel52">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="E2 NLG"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_E2_NLG">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel53">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="E2 NLG(Lighting)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_E2_NLG_Lighting">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel54">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A350 LSDS/LVDT"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A350_LSDS_LVDT">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel55">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="SJ 100 R"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_SJ_100_R">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel56">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="G250"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_G250">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel57">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="P20"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_P20">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel58">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="A 300/600"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_A300_600">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel59">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="C&#xe2;bles BOEING"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Cables_BOEING">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel60">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines BOEING autres que 43133"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_gaines_BOEING_autres_que_43133">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel61">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines BOEING 43133"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_gaines_BOEING_43133">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel62">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Pr&#xe9;paration montage gaine B737"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_preparation_montage_gaine_B737">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel63">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Montage gaine B737"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_montage_gaine_B737">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel64">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boeing 787"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boeing_787">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel65">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="SEHLA"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_SEHLA">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel66">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ECE"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ECE">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel67">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Falcon"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Falcon">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel68">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Falcon F7X "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Falcon_F7X">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel69">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines NH90 autre que 43683/43684/44060 &amp; 44061"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_NH90_autre_que_43683_43684_44060_44061">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel70">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines NH90 43683/43684/44060 1 44061"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_NH90_43683_43684_44060_1_44061">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel71">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux NH90 autres que 43490/43494 44026 &amp; 44027"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_NH90_autre_que_43490_43494_44026_44027">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel72">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Oxyg&#xe9;ne"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Oxyg&#xe9;ne">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel73">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux NH90 43490/43494 44026 &amp; 44027"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_NH90_43490_43494_44026_44027">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel74">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="GA Mats moteur"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_GA_Mats_moteur">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel75">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux SICMA"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_SICMA">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel76">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="TPIS 38985 &amp; 43015"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_TPIS_38985_43015">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel77">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="TPIS autres que 38985 &amp; 43015"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_TPIS_autres_que_38985_43015">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel78">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="C&#xe2;blage"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Cablage">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel79">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Montage"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Montage">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel80">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Silvercrest"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Silvercrest">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel81">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="E2 Reservoir"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_E2_Reservoir">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel82">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MRJ Reservoir"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_MRJ_Reservoir">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel83">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="E2 OBIGGS"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_E2_OBIGGS">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel84">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="G7000-8000 OBIGGS"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_G7000_8000_OBIGGS">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel85">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaine A380SOV"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaine_A380SOV">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel86">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines ABS 1896"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_ABS_1896">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel87">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A30 MLG 251t"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A30_MLG_251t">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel88">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux MC21 NGS"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_MC21_NGS">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel89">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Boeing 787 ND "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Boeing_787_ND">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel90">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ABS 2216 EMI"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_ABS_2216_EMI">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel91">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Gaines A321 XLR"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_Gaines_A321_XLR">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel92">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A321 XLR avec Isoclip"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A321_XLR_avec_Isoclip">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel93">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A321 XLR AXLE"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A321_XLR_AXLE">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel94">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Faisceaux A321 XLR(autre que AXLE/Isoclips)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_faisceaux_A321_XLR_autre_que_AXLE_Isoclips">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel95">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MC21 Reservoir"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_MC21_Reservoir">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel96">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="SLAT CAN HOSE A320"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_SLAT_CAN_HOSE_A320">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel97">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="SLAT CAN HOSE A330"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_SLAT_CAN_HOSE_A330">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="A340 &amp; A350 &amp;C919"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_A340_A350_C919">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Recherche par Cat&#xe9;gorie:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Recherche"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt_recherche">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="comrech">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="95">
+                    <StringItem index="0" value="Matricule"/>
+                    <StringItem index="1" value="Alias"/>
+                    <StringItem index="2" value="Conditionnement produit UAP1(emballage+&#xe9;tiquettage)"/>
+                    <StringItem index="3" value="Faisceaux A380 NLG"/>
+                    <StringItem index="4" value="Faisceaux A350 NLG"/>
+                    <StringItem index="5" value="Faisceaux A320 41687 41688"/>
+                    <StringItem index="6" value="Faisceaux A320 41689 41690 41989"/>
+                    <StringItem index="7" value="Faisceaux A320 NEO"/>
+                    <StringItem index="8" value="Faisceaux A320 NEO avec Isoclip"/>
+                    <StringItem index="9" value="Faisceaux A320-MLG autre que AXE"/>
+                    <StringItem index="10" value="Faisceaux A320-MLG AXE"/>
+                    <StringItem index="11" value="Faisceaux A330 41489"/>
+                    <StringItem index="12" value="Faisceaux A330 A340"/>
+                    <StringItem index="13" value="Faisceaux A340 500/600"/>
+                    <StringItem index="14" value="Faisceaux A330 MLG 251t"/>
+                    <StringItem index="15" value="Faisceaux A350MLG"/>
+                    <StringItem index="16" value="Faisceaux A380 MLG"/>
+                    <StringItem index="17" value="Faisceaux A380 SOV"/>
+                    <StringItem index="18" value="Faisceaux G7000/8000"/>
+                    <StringItem index="19" value="Faisceaux Global Express"/>
+                    <StringItem index="20" value="Gaine A350 NLG"/>
+                    <StringItem index="21" value="Gaines G7000/8000"/>
+                    <StringItem index="22" value="Gaines A320"/>
+                    <StringItem index="23" value="Gaines A320 NEO"/>
+                    <StringItem index="24" value="Gaines A320-MLG"/>
+                    <StringItem index="25" value="Gaines A330 A340"/>
+                    <StringItem index="26" value="Gaines A340 500/600"/>
+                    <StringItem index="27" value="Gaines A350MLG"/>
+                    <StringItem index="28" value="Gaines A350MLG avec Surtressage"/>
+                    <StringItem index="29" value="Gaines A380"/>
+                    <StringItem index="30" value="Gaines A380 avec Band-it"/>
+                    <StringItem index="31" value="Gaines A380 avec Drainage DREMEL"/>
+                    <StringItem index="32" value="Gaines Global Express"/>
+                    <StringItem index="33" value="Kitting A320-MLG"/>
+                    <StringItem index="34" value="AB139"/>
+                    <StringItem index="35" value="ANSALDO"/>
+                    <StringItem index="36" value="BTMU"/>
+                    <StringItem index="37" value="Boites &#xe9;lectriques 43235"/>
+                    <StringItem index="38" value="Boites &#xe9;lectriques 43235-1"/>
+                    <StringItem index="39" value="Boites &#xe9;lectriques 43236 43237"/>
+                    <StringItem index="40" value="Boites &#xe9;lectriques-Montage Couvercle"/>
+                    <StringItem index="41" value="Boites &#xe9;lectriques-Retouche peinture"/>
+                    <StringItem index="42" value="Gaines ATR72"/>
+                    <StringItem index="43" value="Faisceaux ATR72"/>
+                    <StringItem index="44" value="ERJ MLG(175 &amp; 195)"/>
+                    <StringItem index="45" value="ERJ DownLock"/>
+                    <StringItem index="46" value="ERJ NLG"/>
+                    <StringItem index="47" value="E2 MLG"/>
+                    <StringItem index="48" value="E2 NLG"/>
+                    <StringItem index="49" value="E2 NLG (Lighting)"/>
+                    <StringItem index="50" value="Faisceaux A350 LSDS/LVDT"/>
+                    <StringItem index="51" value="SJ100R"/>
+                    <StringItem index="52" value="G250"/>
+                    <StringItem index="53" value="P20"/>
+                    <StringItem index="54" value="A300/600"/>
+                    <StringItem index="55" value="C&#xe2;bles BOEING"/>
+                    <StringItem index="56" value="Gaines BOEING autres que 43133"/>
+                    <StringItem index="57" value="Gaines BOEING 43133"/>
+                    <StringItem index="58" value="Pr&#xe9;paration montage gaine B737"/>
+                    <StringItem index="59" value="Montage gaine B737"/>
+                    <StringItem index="60" value="Boeing 787"/>
+                    <StringItem index="61" value="SEHLA"/>
+                    <StringItem index="62" value="ECE"/>
+                    <StringItem index="63" value="Falcon"/>
+                    <StringItem index="64" value="Falcon F7X"/>
+                    <StringItem index="65" value="Gaines NH90 autre que 43683/43684/44060 &amp; 44061"/>
+                    <StringItem index="66" value="Gaines NH90 43683/43684/44060 &amp; 44061"/>
+                    <StringItem index="67" value="Faisceaux  NH90 autres que 43490 /43494 44026 &amp; 44027"/>
+                    <StringItem index="68" value="Oxyg&#xe8;ne"/>
+                    <StringItem index="69" value="Faisceaux  NH90 43490 /43494 44026 &amp; 44027"/>
+                    <StringItem index="70" value="GA Mats moteur"/>
+                    <StringItem index="71" value="Faisceaux SICMA"/>
+                    <StringItem index="72" value="TPIS 38985 &amp; 43015"/>
+                    <StringItem index="73" value="TPIS autres que 38985 &amp; 43015"/>
+                    <StringItem index="74" value="C&#xe2;blage"/>
+                    <StringItem index="75" value="Montage"/>
+                    <StringItem index="76" value="Silvercrest"/>
+                    <StringItem index="77" value="E2 Reservoir"/>
+                    <StringItem index="78" value="MRJ Reservoir"/>
+                    <StringItem index="79" value="E2 OBIGGS"/>
+                    <StringItem index="80" value="G7000_8000 OBIGGS"/>
+                    <StringItem index="81" value="Gaine A380SOV"/>
+                    <StringItem index="82" value="Gaine ABS1896"/>
+                    <StringItem index="83" value="Gaines A330 MLG 251t"/>
+                    <StringItem index="84" value="Faisceaux MC21 NGS"/>
+                    <StringItem index="85" value="Boeing 787 ND"/>
+                    <StringItem index="86" value="ABS 2216 EMI"/>
+                    <StringItem index="87" value="Gaines A321 XLR"/>
+                    <StringItem index="88" value="Faisceaux A321 XLR avec Isoclip"/>
+                    <StringItem index="89" value="Faisceaux A321 XLR AXLE"/>
+                    <StringItem index="90" value="Faisceaux A321 XLR (autre que AXLE/Isoclips)"/>
+                    <StringItem index="91" value="MC21 Reservoir"/>
+                    <StringItem index="92" value="SLAT CAN HOSE A320"/>
+                    <StringItem index="93" value="SLAT CAN HOSE A330/A340 &amp; A350 &amp; C919"/>
+                    <StringItem index="94" value="Pourcentage de polyvalence par op&#xe9;rateur"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton6">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Retour"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+              </Events>
+            </Component>
+            <Container class="javax.swing.JPanel" name="jPanel1">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel102" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel100" alignment="0" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <Component id="jLabel101" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="132" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel104" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel103" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace pref="164" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel100" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel103" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel101" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel104" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel102" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel100">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="0: Non form&#xe9;(e)"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel101">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="1: Form&#xe9;(e)"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel102">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="2: Qualifi&#xe9;(e) en p&#xe9;riode  (en Jaune)"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel103">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="3: Qualifi&#xe9;(e) (en Vert)"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel104">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="4: Formateur / Formatrice"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

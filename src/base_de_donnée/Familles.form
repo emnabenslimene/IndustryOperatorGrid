@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane3" min="-2" pref="1351" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane3" min="-2" pref="695" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="1211" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              <Component id="jScrollPane2" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jScrollPane4" min="-2" pref="30000" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel7" min="-2" pref="250" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                                      <Component id="jScrollPane5" min="-2" pref="30000" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jScrollPane6" min="-2" pref="30000" max="-2" attributes="0"/>
+                                          <Component id="jScrollPane1" alignment="0" min="-2" pref="30000" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel9" min="-2" pref="268" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel8" min="-2" pref="268" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="444" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel11" min="-2" pref="357" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="1" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel10" min="-2" pref="357" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane5" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane6" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel8" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Component id="jLabel11" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel10" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane4" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace pref="147" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="36" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Familles-Formations"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="24" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="66" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Formations g&#xe9;n&#xe9;rales :"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_formations_generales">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="142" rowCount="7">
+                        <Column editable="false" title="Formations" type="java.lang.String"/>
+                        <Column editable="false" title="A300/600" type="java.lang.String"/>
+                        <Column editable="false" title="AB139" type="java.lang.String"/>
+                        <Column editable="false" title="ANSALDO" type="java.lang.String"/>
+                        <Column editable="false" title="Application du vernis A&#xe9;roDur" type="java.lang.String"/>
+                        <Column editable="false" title="Application primaire" type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques - Montage couvercle" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques - Retouche peinture" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235-1" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236-1" type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236 43237" type="java.lang.String"/>
+                        <Column editable="false" title="Bretelles de test" type="java.lang.String"/>
+                        <Column editable="false" title="Brossage " type="java.lang.String"/>
+                        <Column editable="false" title="BTMU" type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING" type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage conventionnel" type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage num&#xe9;rique" type="java.lang.String"/>
+                        <Column editable="false" title="Composites" type="java.lang.String"/>
+                        <Column editable="false" title="Contr&#xf4;le ROMER" type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des c&#xe2;bles (EcoStrip 9320)" type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des manchons (EcoCut 3300)" type="java.lang.String"/>
+                        <Column editable="false" title="Coupe et &#xe9;bavurage des tubes inox" type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G-PAD" type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G-Tube" type="java.lang.String"/>
+                        <Column editable="false" title="D&#xe9;graissage CST" type="java.lang.String"/>
+                        <Column editable="false" title="E2 MLG" type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG" type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG (Lighting)" type="java.lang.String"/>
+                        <Column editable="false" title="E2 OBIGGS" type="java.lang.String"/>
+                        <Column editable="false" title="E2 Reservoir" type="java.lang.String"/>
+                        <Column editable="false" title="ECE" type="java.lang.String"/>
+                        <Column editable="false" title="ERJ DownLock" type="java.lang.String"/>
+                        <Column editable="false" title="ERJ MLG (175 &amp; 195)" type="java.lang.String"/>
+                        <Column editable="false" title="ERJ NLG" type="java.lang.String"/>
+                        <Column editable="false" title="Evasement des tubes inox" type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition de produits finis" type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition sous OD d&apos;un composant ZET vers Loches" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 NLG" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux  NH90 43490 /43494 44026 &amp; 44027" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux  NH90 autres que 43490 /43494 44026 &amp; 44027" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE- PM" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE- Poste 1" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE- Poste 2" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE- Poste 3" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG autre que AXE- Poste 4" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG AXE" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG AXE- Poste 1" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320-MLG AXE- Poste 2" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 41489" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 A340" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A340 500/600" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350MLG" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 MLG" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 NLG" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 SOV" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux ATR72" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux G7000/8000" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux Global Express" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux SICMA" type="java.lang.String"/>
+                        <Column editable="false" title="Falcon" type="java.lang.String"/>
+                        <Column editable="false" title="Falcon F7X" type="java.lang.String"/>
+                        <Column editable="false" title="G250" type="java.lang.String"/>
+                        <Column editable="false" title="G7000_8000 OBIGGS" type="java.lang.String"/>
+                        <Column editable="false" title="GA Mats moteur" type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A350 NLG" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines G7000/8000" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 NEO" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320-MLG" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 A340" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A340 500/600" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Band-it" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ATR72" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING 43133" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines Global Express" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 &amp; 44061" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 &amp; 44061" type="java.lang.String"/>
+                        <Column editable="false" title="Gestion des consommables" type="java.lang.String"/>
+                        <Column editable="false" title="Kitting A320-MLG" type="java.lang.String"/>
+                        <Column editable="false" title="Marquage des TMS" type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Electrochimique" type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Laser" type="java.lang.String"/>
+                        <Column editable="false" title="Mesure de viscosit&#xe9; t&#xe9;flon et Xylan" type="java.lang.String"/>
+                        <Column editable="false" title="Microbillage" type="java.lang.String"/>
+                        <Column editable="false" title="Montage des &#xe9;crous cadmi&#xe9;s avec segment" type="java.lang.String"/>
+                        <Column editable="false" title="Montage &#xe9;crous avec segment" type="java.lang.String"/>
+                        <Column editable="false" title="Montage gaine B737" type="java.lang.String"/>
+                        <Column editable="false" title="Montage plaquette d&apos;identification (sur tubes)" type="java.lang.String"/>
+                        <Column editable="false" title="MRJ Reservoir" type="java.lang.String"/>
+                        <Column editable="false" title="Oxyg&#xe8;ne" type="java.lang.String"/>
+                        <Column editable="false" title="P20" type="java.lang.String"/>
+                        <Column editable="false" title="Per&#xe7;age et &#xe9;bavurage" type="java.lang.String"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting physique" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting sur ERP ( M3)" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation d&apos;un inventaire" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;ception" type="java.lang.String"/>
+                        <Column editable="false" title="Retreint thermo" type="java.lang.String"/>
+                        <Column editable="false" title="ABS 2216 EMI" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xea;vetement interne pi&#xe8;ce m&#xe9;canique sauf tpis et boitiers ATR" type="java.lang.String"/>
+                        <Column editable="false" title="R&#xea;vetement interne tpis et boitier ATR" type="java.lang.String"/>
+                        <Column editable="false" title="SEHLA" type="java.lang.String"/>
+                        <Column editable="false" title="Sertissage des &#xe9;crous" type="java.lang.String"/>
+                        <Column editable="false" title="Silvercrest" type="java.lang.String"/>
+                        <Column editable="false" title="SJ100R" type="java.lang.String"/>
+                        <Column editable="false" title="Soudure" type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage BADGER" type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage embouts composites" type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage oranger" type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage tubes" type="java.lang.String"/>
+                        <Column editable="false" title="TPIS 38985 &amp; 43015" type="java.lang.String"/>
+                        <Column editable="false" title="TPIS autres que 38985 &amp; 43015" type="java.lang.String"/>
+                        <Column editable="false" title="XAC" type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;blage" type="java.lang.String"/>
+                        <Column editable="false" title="Montage" type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP1 (emballage + &#xe9;tiquettage)" type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP2 (emballage + &#xe9;tiquettage)" type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A380SOV" type="java.lang.String"/>
+                        <Column editable="false" title="Gaine ABS1896" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 MLG 251t" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS" type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787 ND" type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A321 XLR" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR (autre que AXLE/Isoclips)" type="java.lang.String"/>
+                        <Column editable="false" title="MC21 Reservoir" type="java.lang.String"/>
+                        <Column editable="false" title="SLAT CAN HOSE" type="java.lang.String"/>
+                      </Table>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="table_formations_generalesMouseClicked"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="24" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="66" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="M&#xe9;tiers produit:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_metiers_du_magasinage">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="142" rowCount="7">
+                        <Column editable="false" title="Formations " type="java.lang.String"/>
+                        <Column editable="false" title="A300/600 " type="java.lang.String"/>
+                        <Column editable="false" title="AB139 " type="java.lang.String"/>
+                        <Column editable="false" title="ANSALDO  " type="java.lang.String"/>
+                        <Column editable="false" title="Application du vernis A&#xe9;roDur " type="java.lang.String"/>
+                        <Column editable="false" title="Application primaire " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Montage couverle " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Retouche peinture " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_ 43237 " type="java.lang.String"/>
+                        <Column editable="false" title="Bretelles de test " type="java.lang.String"/>
+                        <Column editable="false" title="Brossage  " type="java.lang.String"/>
+                        <Column editable="false" title="BTMU  " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage conventionnel " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage num&#xe9;rique " type="java.lang.String"/>
+                        <Column editable="false" title="Composites " type="java.lang.String"/>
+                        <Column editable="false" title="Contr&#xf4;le ROMER " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des c&#xe2;bles(EcoStrip 9320) " type="java.lang.String"/>
+                        <Column editable="false" title="  Coupe des manchons(EcoCut 3300)  " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe et &#xe9;bavurage des tubes inox  " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_PAD " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_Tube " type="java.lang.String"/>
+                        <Column editable="false" title="D&#xe9;graissage CST " type="java.lang.String"/>
+                        <Column editable="false" title="E2 MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG(Lighting) " type="java.lang.String"/>
+                        <Column editable="false" title="E2 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="E2 Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="ECE  " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ DownLock " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ MLG (175et195) " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Evasement des tubes inox " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition de produits finis  " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition sous OD d&apos;un composant ZET vers Loches" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 autres que 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989 " type="java.lang.String"/>
+                        <Column editable="false" title="  Faisceaux A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe PM " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste2  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste3 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste4 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 2 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 41489 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux SICMA " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon F7X " type="java.lang.String"/>
+                        <Column editable="false" title="G250 " type="java.lang.String"/>
+                        <Column editable="false" title="G7000_8000 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="GA Mats moteur " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Band_it " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 et 44061  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 et 44061 " type="java.lang.String"/>
+                        <Column editable="false" title="Gestion des consommables " type="java.lang.String"/>
+                        <Column editable="false" title="Kitting A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage des TMS  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Electrochimique " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Laser " type="java.lang.String"/>
+                        <Column editable="false" title="Mesure de viscosit&#xe9; t&#xe9;flon et Xylan " type="java.lang.String"/>
+                        <Column editable="false" title="Microbillage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage des &#xe9;crous cadmi&#xe9;s avec segment  " type="java.lang.String"/>
+                        <Column editable="false" title="Montage &#xe9;crous avec segment " type="java.lang.String"/>
+                        <Column editable="false" title="Montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="Montage plaquette d&apos;identification (sur tubes)  " type="java.lang.String"/>
+                        <Column editable="false" title="MRJ Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="Oxyg&#xe9;ne " type="java.lang.String"/>
+                        <Column editable="false" title="P20  " type="java.lang.String"/>
+                        <Column editable="false" title="Per&#xe7;age et &#xe9;bavurage  " type="java.lang.String"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting physique " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting sur ERP (M3) " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation d&apos;un inventaire " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;ception " type="java.lang.String"/>
+                        <Column editable="false" title="Retreint thermo  " type="java.lang.String"/>
+                        <Column editable="false" title="ABS 2216 EMI " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne pi&#xe9;ce m&#xe9;canique sauf tpis et boitiers ATR " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne tpis et boitier ATR  " type="java.lang.String"/>
+                        <Column editable="false" title="SEHLA " type="java.lang.String"/>
+                        <Column editable="false" title="Sertissage des &#xe9;crous  " type="java.lang.String"/>
+                        <Column editable="false" title="Silvercrest " type="java.lang.String"/>
+                        <Column editable="false" title="SJ100R  " type="java.lang.String"/>
+                        <Column editable="false" title="Soudure " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage BADGER  " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage embouts composites " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage oranger " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage tubes  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS 38985 et 43015  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS autres que 38985 et 43015 " type="java.lang.String"/>
+                        <Column editable="false" title="XAC " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;blage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP1(emballage + &#xe9;tiquettage)  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP2(emballage + &#xe9;tiquettage) " type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A380SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ABS1896  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787 ND " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A321 XLR  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR(autre que AXLE/Isoclips) " type="java.lang.String"/>
+                        <Column editable="false" title="MC21 Reservoir " type="java.lang.String"/>
+                        <Column editable="false" title="SLAT CAN HOSE " type="java.lang.String"/>
+                      </Table>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_metiers_produit">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="142" rowCount="2">
+                        <Column editable="false" title="Formations " type="java.lang.String"/>
+                        <Column editable="false" title="A300/600 " type="java.lang.String"/>
+                        <Column editable="false" title="AB139 " type="java.lang.String"/>
+                        <Column editable="false" title="ANSALDO  " type="java.lang.String"/>
+                        <Column editable="false" title="Application du vernis A&#xe9;roDur " type="java.lang.String"/>
+                        <Column editable="false" title="Application primaire " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Montage couverle " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Retouche peinture " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_ 43237 " type="java.lang.String"/>
+                        <Column editable="false" title="Bretelles de test " type="java.lang.String"/>
+                        <Column editable="false" title="Brossage  " type="java.lang.String"/>
+                        <Column editable="false" title="BTMU  " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage conventionnel " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage num&#xe9;rique " type="java.lang.String"/>
+                        <Column editable="false" title="Composites " type="java.lang.String"/>
+                        <Column editable="false" title="Contr&#xf4;le ROMER " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des c&#xe2;bles(EcoStrip 9320) " type="java.lang.String"/>
+                        <Column editable="false" title="  Coupe des manchons(EcoCut 3300)  " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe et &#xe9;bavurage des tubes inox  " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_PAD " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_Tube " type="java.lang.String"/>
+                        <Column editable="false" title="D&#xe9;graissage CST " type="java.lang.String"/>
+                        <Column editable="false" title="E2 MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG(Lighting) " type="java.lang.String"/>
+                        <Column editable="false" title="E2 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="E2 Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="ECE  " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ DownLock " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ MLG (175et195) " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Evasement des tubes inox " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition de produits finis  " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition sous OD d&apos;un composant ZET vers Loches" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 autres que 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989 " type="java.lang.String"/>
+                        <Column editable="false" title="  Faisceaux A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe PM " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste2  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste3 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste4 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 2 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 41489 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux SICMA " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon F7X " type="java.lang.String"/>
+                        <Column editable="false" title="G250 " type="java.lang.String"/>
+                        <Column editable="false" title="G7000_8000 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="GA Mats moteur " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Band_it " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 et 44061  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 et 44061 " type="java.lang.String"/>
+                        <Column editable="false" title="Gestion des consommables " type="java.lang.String"/>
+                        <Column editable="false" title="Kitting A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage des TMS  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Electrochimique " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Laser " type="java.lang.String"/>
+                        <Column editable="false" title="Mesure de viscosit&#xe9; t&#xe9;flon et Xylan " type="java.lang.String"/>
+                        <Column editable="false" title="Microbillage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage des &#xe9;crous cadmi&#xe9;s avec segment  " type="java.lang.String"/>
+                        <Column editable="false" title="Montage &#xe9;crous avec segment " type="java.lang.String"/>
+                        <Column editable="false" title="Montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="Montage plaquette d&apos;identification (sur tubes)  " type="java.lang.String"/>
+                        <Column editable="false" title="MRJ Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="Oxyg&#xe9;ne " type="java.lang.String"/>
+                        <Column editable="false" title="P20  " type="java.lang.String"/>
+                        <Column editable="false" title="Per&#xe7;age et &#xe9;bavurage  " type="java.lang.String"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting physique " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting sur ERP (M3) " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation d&apos;un inventaire " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;ception " type="java.lang.String"/>
+                        <Column editable="false" title="Retreint thermo  " type="java.lang.String"/>
+                        <Column editable="false" title="ABS 2216 EMI " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne pi&#xe9;ce m&#xe9;canique sauf tpis et boitiers ATR " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne tpis et boitier ATR  " type="java.lang.String"/>
+                        <Column editable="false" title="SEHLA " type="java.lang.String"/>
+                        <Column editable="false" title="Sertissage des &#xe9;crous  " type="java.lang.String"/>
+                        <Column editable="false" title="Silvercrest " type="java.lang.String"/>
+                        <Column editable="false" title="SJ100R  " type="java.lang.String"/>
+                        <Column editable="false" title="Soudure " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage BADGER  " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage embouts composites " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage oranger " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage tubes  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS 38985 et 43015  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS autres que 38985 et 43015 " type="java.lang.String"/>
+                        <Column editable="false" title="XAC " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;blage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP1(emballage + &#xe9;tiquettage)  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP2(emballage + &#xe9;tiquettage) " type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A380SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ABS1896  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787 ND " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A321 XLR  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR(autre que AXLE/Isoclips) " type="java.lang.String"/>
+                        <Column editable="false" title="MC21 Reservoir " type="java.lang.String"/>
+                        <Column editable="false" title="SLAT CAN HOSE " type="java.lang.String"/>
+                      </Table>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="24" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="66" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="M&#xe9;tiers de magasinage:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="24" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="66" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Formations sp&#xe9;cifiques:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_formations_specifiques_produit">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="142" rowCount="3">
+                        <Column editable="false" title="Formations " type="java.lang.String"/>
+                        <Column editable="false" title="A300/600 " type="java.lang.String"/>
+                        <Column editable="false" title="AB139 " type="java.lang.String"/>
+                        <Column editable="false" title="ANSALDO  " type="java.lang.String"/>
+                        <Column editable="false" title="Application du vernis A&#xe9;roDur " type="java.lang.String"/>
+                        <Column editable="false" title="Application primaire " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Montage couverle " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Retouche peinture " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_ 43237 " type="java.lang.String"/>
+                        <Column editable="false" title="Bretelles de test " type="java.lang.String"/>
+                        <Column editable="false" title="Brossage  " type="java.lang.String"/>
+                        <Column editable="false" title="BTMU  " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage conventionnel " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage num&#xe9;rique " type="java.lang.String"/>
+                        <Column editable="false" title="Composites " type="java.lang.String"/>
+                        <Column editable="false" title="Contr&#xf4;le ROMER " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des c&#xe2;bles(EcoStrip 9320) " type="java.lang.String"/>
+                        <Column editable="false" title="  Coupe des manchons(EcoCut 3300)  " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe et &#xe9;bavurage des tubes inox  " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_PAD " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_Tube " type="java.lang.String"/>
+                        <Column editable="false" title="D&#xe9;graissage CST " type="java.lang.String"/>
+                        <Column editable="false" title="E2 MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG(Lighting) " type="java.lang.String"/>
+                        <Column editable="false" title="E2 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="E2 Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="ECE  " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ DownLock " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ MLG (175et195) " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Evasement des tubes inox " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition de produits finis  " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition sous OD d&apos;un composant ZET vers Loches" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 autres que 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989 " type="java.lang.String"/>
+                        <Column editable="false" title="  Faisceaux A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe PM " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste2  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste3 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste4 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 2 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 41489 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux SICMA " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon F7X " type="java.lang.String"/>
+                        <Column editable="false" title="G250 " type="java.lang.String"/>
+                        <Column editable="false" title="G7000_8000 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="GA Mats moteur " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Band_it " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 et 44061  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 et 44061 " type="java.lang.String"/>
+                        <Column editable="false" title="Gestion des consommables " type="java.lang.String"/>
+                        <Column editable="false" title="Kitting A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage des TMS  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Electrochimique " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Laser " type="java.lang.String"/>
+                        <Column editable="false" title="Mesure de viscosit&#xe9; t&#xe9;flon et Xylan " type="java.lang.String"/>
+                        <Column editable="false" title="Microbillage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage des &#xe9;crous cadmi&#xe9;s avec segment  " type="java.lang.String"/>
+                        <Column editable="false" title="Montage &#xe9;crous avec segment " type="java.lang.String"/>
+                        <Column editable="false" title="Montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="Montage plaquette d&apos;identification (sur tubes)  " type="java.lang.String"/>
+                        <Column editable="false" title="MRJ Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="Oxyg&#xe9;ne " type="java.lang.String"/>
+                        <Column editable="false" title="P20  " type="java.lang.String"/>
+                        <Column editable="false" title="Per&#xe7;age et &#xe9;bavurage  " type="java.lang.String"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting physique " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting sur ERP (M3) " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation d&apos;un inventaire " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;ception " type="java.lang.String"/>
+                        <Column editable="false" title="Retreint thermo  " type="java.lang.String"/>
+                        <Column editable="false" title="ABS 2216 EMI " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne pi&#xe9;ce m&#xe9;canique sauf tpis et boitiers ATR " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne tpis et boitier ATR  " type="java.lang.String"/>
+                        <Column editable="false" title="SEHLA " type="java.lang.String"/>
+                        <Column editable="false" title="Sertissage des &#xe9;crous  " type="java.lang.String"/>
+                        <Column editable="false" title="Silvercrest " type="java.lang.String"/>
+                        <Column editable="false" title="SJ100R  " type="java.lang.String"/>
+                        <Column editable="false" title="Soudure " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage BADGER  " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage embouts composites " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage oranger " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage tubes  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS 38985 et 43015  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS autres que 38985 et 43015 " type="java.lang.String"/>
+                        <Column editable="false" title="XAC " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;blage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP1(emballage + &#xe9;tiquettage)  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP2(emballage + &#xe9;tiquettage) " type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A380SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ABS1896  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787 ND " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A321 XLR  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR(autre que AXLE/Isoclips) " type="java.lang.String"/>
+                        <Column editable="false" title="MC21 Reservoir " type="java.lang.String"/>
+                        <Column editable="false" title="SLAT CAN HOSE " type="java.lang.String"/>
+                      </Table>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="24" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="66" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Formations sp&#xe9;cifiques produit:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="table_formations_specifiques">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="142" rowCount="4">
+                        <Column editable="false" title="Formations " type="java.lang.String"/>
+                        <Column editable="false" title="A300/600 " type="java.lang.String"/>
+                        <Column editable="false" title="AB139 " type="java.lang.String"/>
+                        <Column editable="false" title="ANSALDO  " type="java.lang.String"/>
+                        <Column editable="false" title="Application du vernis A&#xe9;roDur " type="java.lang.String"/>
+                        <Column editable="false" title="Application primaire " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Montage couverle " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques_Retouche peinture " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43235_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_1  " type="java.lang.String"/>
+                        <Column editable="false" title="Boites &#xe9;lectriques 43236_ 43237 " type="java.lang.String"/>
+                        <Column editable="false" title="Bretelles de test " type="java.lang.String"/>
+                        <Column editable="false" title="Brossage  " type="java.lang.String"/>
+                        <Column editable="false" title="BTMU  " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;bles BOEING " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage conventionnel " type="java.lang.String"/>
+                        <Column editable="false" title="Cintrage num&#xe9;rique " type="java.lang.String"/>
+                        <Column editable="false" title="Composites " type="java.lang.String"/>
+                        <Column editable="false" title="Contr&#xf4;le ROMER " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe des c&#xe2;bles(EcoStrip 9320) " type="java.lang.String"/>
+                        <Column editable="false" title="  Coupe des manchons(EcoCut 3300)  " type="java.lang.String"/>
+                        <Column editable="false" title="Coupe et &#xe9;bavurage des tubes inox  " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_PAD " type="java.lang.String"/>
+                        <Column editable="false" title="Cr&#xe9;ation d&apos;un programme ROMER G_Tube " type="java.lang.String"/>
+                        <Column editable="false" title="D&#xe9;graissage CST " type="java.lang.String"/>
+                        <Column editable="false" title="E2 MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="E2 NLG(Lighting) " type="java.lang.String"/>
+                        <Column editable="false" title="E2 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="E2 Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="ECE  " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ DownLock " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ MLG (175et195) " type="java.lang.String"/>
+                        <Column editable="false" title="ERJ NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Evasement des tubes inox " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition de produits finis  " type="java.lang.String"/>
+                        <Column editable="false" title="Exp&#xe9;dition sous OD d&apos;un composant ZET vers Loches" type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 LSDS/LVDT " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux NH90 autres que 43490/43494 44026 et 44027  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41687 41688  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 41689 41690 41989 " type="java.lang.String"/>
+                        <Column editable="false" title="  Faisceaux A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320 NEO avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe PM " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste2  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste3 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG autre que Axe_Poste4 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 1 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A320_MLG AXE_Poste 2 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 41489 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A350MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380MLG " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380NLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A380 SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux SICMA " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon " type="java.lang.String"/>
+                        <Column editable="false" title="Falcon F7X " type="java.lang.String"/>
+                        <Column editable="false" title="G250 " type="java.lang.String"/>
+                        <Column editable="false" title="G7000_8000 OBIGGS " type="java.lang.String"/>
+                        <Column editable="false" title="GA Mats moteur " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350 NLG " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines G7000/8000 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320 NEO " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 A340 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A340 500/600 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A350MLG avec Surtressage " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Band_it " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A380 avec Drainage DREMEL " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ATR72 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines BOEING autres que 43133 " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines Global Express " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 43683/43684/44060 et 44061  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines NH90 autre que 43683/43684/44060 et 44061 " type="java.lang.String"/>
+                        <Column editable="false" title="Gestion des consommables " type="java.lang.String"/>
+                        <Column editable="false" title="Kitting A320_MLG  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage des TMS  " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Electrochimique " type="java.lang.String"/>
+                        <Column editable="false" title="Marquage Laser " type="java.lang.String"/>
+                        <Column editable="false" title="Mesure de viscosit&#xe9; t&#xe9;flon et Xylan " type="java.lang.String"/>
+                        <Column editable="false" title="Microbillage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage des &#xe9;crous cadmi&#xe9;s avec segment  " type="java.lang.String"/>
+                        <Column editable="false" title="Montage &#xe9;crous avec segment " type="java.lang.String"/>
+                        <Column editable="false" title="Montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="Montage plaquette d&apos;identification (sur tubes)  " type="java.lang.String"/>
+                        <Column editable="false" title="MRJ Reservoir  " type="java.lang.String"/>
+                        <Column editable="false" title="Oxyg&#xe9;ne " type="java.lang.String"/>
+                        <Column editable="false" title="P20  " type="java.lang.String"/>
+                        <Column editable="false" title="Per&#xe7;age et &#xe9;bavurage  " type="java.lang.String"/>
+                        <Column editable="false" title="Pr&#xe9;paration montage gaine B737 " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting physique " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation du kitting sur ERP (M3) " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;alisation d&apos;un inventaire " type="java.lang.String"/>
+                        <Column editable="false" title="R&#xe9;ception " type="java.lang.String"/>
+                        <Column editable="false" title="Retreint thermo  " type="java.lang.String"/>
+                        <Column editable="false" title="ABS 2216 EMI " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne pi&#xe9;ce m&#xe9;canique sauf tpis et boitiers ATR " type="java.lang.String"/>
+                        <Column editable="false" title="Revetement interne tpis et boitier ATR  " type="java.lang.String"/>
+                        <Column editable="false" title="SEHLA " type="java.lang.String"/>
+                        <Column editable="false" title="Sertissage des &#xe9;crous  " type="java.lang.String"/>
+                        <Column editable="false" title="Silvercrest " type="java.lang.String"/>
+                        <Column editable="false" title="SJ100R  " type="java.lang.String"/>
+                        <Column editable="false" title="Soudure " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage BADGER  " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage embouts composites " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage oranger " type="java.lang.String"/>
+                        <Column editable="false" title="T&#xe9;flonnage tubes  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS 38985 et 43015  " type="java.lang.String"/>
+                        <Column editable="false" title="TPIS autres que 38985 et 43015 " type="java.lang.String"/>
+                        <Column editable="false" title="XAC " type="java.lang.String"/>
+                        <Column editable="false" title="C&#xe2;blage " type="java.lang.String"/>
+                        <Column editable="false" title="Montage  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP1(emballage + &#xe9;tiquettage)  " type="java.lang.String"/>
+                        <Column editable="false" title="Conditionnement produit UAP2(emballage + &#xe9;tiquettage) " type="java.lang.String"/>
+                        <Column editable="false" title="Gaine A380SOV  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines ABS1896  " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A330 MLG 251t  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux MC21 NGS " type="java.lang.String"/>
+                        <Column editable="false" title="Boeing 787 ND " type="java.lang.String"/>
+                        <Column editable="false" title="Gaines A321 XLR  " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR avec Isoclip " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR AXLE " type="java.lang.String"/>
+                        <Column editable="false" title="Faisceaux A321 XLR(autre que AXLE/Isoclips) " type="java.lang.String"/>
+                        <Column editable="false" title="MC21 Reservoir " type="java.lang.String"/>
+                        <Column editable="false" title="SLAT CAN HOSE " type="java.lang.String"/>
+                      </Table>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JButton" name="jButton1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="14" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Retour"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
